@@ -53,13 +53,13 @@ function LandingPage({ onStartChat }) {
         borderRadius={2}
       >
         <Typography variant="h2" component="h1" align="center">
-          Welcome to MAAN
+          Welcome to Zatch
         </Typography>
         <Typography variant="h6" component="h2" align="center">
           Your Personal AI Companion
         </Typography>
         <Button variant="contained" onClick={onStartChat}>
-          Start Chat
+          Start ME :)
         </Button>
       </Stack>
     </Box>
