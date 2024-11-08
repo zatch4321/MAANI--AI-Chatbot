@@ -23,7 +23,7 @@ export default function Page() {
     {
       role: "assistant",
       content:
-        "Hello, I am MAAN Support, your personal AI companion. How can I help you today?",
+        "Hello, I am MAANI Support, your personal AI companion. How can I help you today?",
     },
   ]);
   const [message, setMessage] = useState("");
@@ -130,7 +130,7 @@ export default function Page() {
           >
             <Avatar
               src="chatbot-pfp.png"
-              alt="MAAN"
+              alt="MAANI"
               sx={{
                 width: isMobile ? 60 : 80,
                 height: isMobile ? 60 : 80,
@@ -146,7 +146,7 @@ export default function Page() {
               color: "#d7d8b6", // Text color
             }}
           >
-            MAAN
+            MAANI
           </Typography>
         </Box>
         <Divider />
