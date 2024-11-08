@@ -124,7 +124,7 @@ export default function Page() {
       >
         <Box display="flex" flexDirection="column" alignItems="center">
           <Link
-            href="https://github.com/MalaikaJunaid/AI-Chatbot"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
