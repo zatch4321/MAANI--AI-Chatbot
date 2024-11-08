@@ -53,13 +53,13 @@ function LandingPage({ onStartChat }) {
         borderRadius={2}
       >
         <Typography variant="h2" component="h1" align="center">
-          Welcome to MAANI
+          Welcome to MAANI 
         </Typography>
         <Typography variant="h6" component="h2" align="center">
-          Your Personal AI Companion
+          Your Personal AI Companion By Abhi :):
         </Typography>
         <Button variant="contained" onClick={onStartChat}>
-          Start ME :)
+          Start ME :):
         </Button>
       </Stack>
     </Box>
